@@ -8,7 +8,7 @@
 
 
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tech Stack👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
