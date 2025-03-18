@@ -12,7 +12,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,angular,androidstudio,aws,bootstrap,c,cpp,css,eclipse,git,github,gradle,hibernate,html,java,jquery,kotlin,less,latex,materialui,matlab,mysql,nginx,nodejs,notion,npm,opencv,ps,php,redux,sass,styledcomponents,swift,tailwind,vite,vitest,vscode,webpack&perline=12" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,angular,androidstudio,aws,bootstrap,c,cpp,css,eclipse,git,github,githubactions,gitlab,gradle,hibernate,html,java,jquery,kotlin,less,latex,materialui,matlab,mysql,netlify,nextjs,nginx,nodejs,notion,npm,opencv,ps,php,pinia,postman,powershell,pr,py,redux,sass,styledcomponents,svelte,swift,tailwind,vite,vitest,vue,vscode,webpack&perline=12" />
   </a>
 </p>
 <br>
