@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>Hi,👋🏻 I'm Borja</h1>
-      <p align="center">Frontend Dev @Playtomic </p>
+      <p align="center">🥎 Frontend Dev @Playtomic 🥎</p>
     </summary>
   </ul>
 </div>
