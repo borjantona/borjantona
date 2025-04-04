@@ -2,14 +2,13 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>Hi,👋🏻 I'm Borja</h1>
+      <p align="center">Frontend Dev @Playtomic </p>
     </summary>
   </ul>
 </div>
 
-
-
 <h2 >Tech Stack👨🏻‍💻</h2>
-<!--tech stack icons-->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,angular,androidstudio,aws,bootstrap,c,cpp,css,eclipse,git,github,githubactions,gitlab,gradle,hibernate,html,java,jquery,kotlin,less,latex,materialui,matlab,mysql,netlify,nextjs,nginx,nodejs,notion,npm,opencv,ps,php,pinia,postman,powershell,pr,py,redux,sass,styledcomponents,svelte,swift,tailwind,vite,vitest,vue,vscode,webpack&perline=12" />
@@ -17,6 +16,17 @@
 </p>
 <br>
 
+## 📜 Certificates
+
+<p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/689ecbb7-760f-4385-a6d1-4f56796c1237" target="_blank">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge" width="150"/>
+  </a>
+</p>
+
+- ✅ [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/689ecbb7-760f-4385-a6d1-4f56796c1237) – marzo 2025
+
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -39,5 +49,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
