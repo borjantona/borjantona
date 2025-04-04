@@ -24,7 +24,7 @@
   </a>
 </p>
 
-- ✅ [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/689ecbb7-760f-4385-a6d1-4f56796c1237) – marzo 2025
+- ✅ [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/689ecbb7-760f-4385-a6d1-4f56796c1237) – *march 2025*
 
 <br>
 
